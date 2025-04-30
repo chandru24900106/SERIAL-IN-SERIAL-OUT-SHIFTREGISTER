@@ -37,8 +37,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:chandru v RegisterNumber:212224230043
-
+Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
