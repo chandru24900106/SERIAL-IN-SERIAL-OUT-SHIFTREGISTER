@@ -1,7 +1,7 @@
 ### name : chandru v
 ### reg no : 212224230043
-### Ex no : 10
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+### Ex no : 06
+# SERIAL IN SERIAL OUT SHIFTREGISTER
 
 **AIM:**
 
